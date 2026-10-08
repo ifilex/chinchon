@@ -1,0 +1,6 @@
+{
+  "name": "Chinchón Baraja Española",
+  "description": "Juego de cartas Chinchón tradicional contra IA con estadísticas de velocidad, sonidos relajantes, logros y soporte multilingüe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
